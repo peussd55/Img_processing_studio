@@ -3,11 +3,10 @@
 
 ### 🛠️ 기술 스택 (Tech Stack)
 <p>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/folium-3776AB?style=for-the-badge&logo=leaflet&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/Haar Cascade-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
 ## 1. 프로젝트 개요
