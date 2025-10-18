@@ -110,6 +110,6 @@ pip install PyQt5 opencv-contrib-python numpy scipy matplotlib
 - **전처리 파이프라인 재사용**: `header` 패키지는 독립 모듈로 사용 가능하므로 다른 프로젝트에서도 얼굴 ROI 기반 분류 실험에 활용할 수 있습니다.
 - **버터워스/노치 필터**: `butterworth.Butter`를 참고해 추가 파라미터(UI 입력 필드)를 노출하면 주파수 도메인 실험 범위를 넓힐 수 있습니다.
 
-<img width="1356" height="622" alt="화면 캡처 2025-10-18 184744" src="https://github.com/user-attachments/assets/a4594f6d-ca9c-49a3-a949-21d86353fd62" />
+<img width="1356" height="630" alt="화면 캡처 2025-10-18 184744" src="https://github.com/user-attachments/assets/3127c764-4abe-42ab-acaa-6e9082655afe" />
 
-<img width="1356" height="629" alt="화면 캡처 2025-10-18 185040" src="https://github.com/user-attachments/assets/9848eb28-4c44-4db3-8ac3-6fd23aa21696" />
+<img width="1354" height="629" alt="화면 캡처 2025-10-18 185040" src="https://github.com/user-attachments/assets/7ac79b40-8019-4376-beb8-6d65bab9b472" />
