@@ -1,7 +1,7 @@
 # Image processing with Pyqt
 > 📌 **프로젝트 유형**: 데스크톱 애플리케이션 · 컴퓨터 비전 · 인터랙티브 이미지 편집 툴킷
 
-### 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ 기술 스택 (Tech Stack)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
