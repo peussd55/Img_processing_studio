@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/Haar Cascade-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
+## 👥 참여인원 (Member)
+<p>
+  <img src="https://img.shields.io/badge/개발%20(Development)-1명-3776AB?style=flat-square&logo=github&logoColor=white">
+</p>
+
 ## 1. 프로젝트 개요
 CVQT Studio는 PyQt5 기반 GUI와 OpenCV 연산을 결합해 다양한 이미지 보정, 필터링, 특수 효과, 얼굴 성별 분류 기능을 한 번에 실험할 수 있는 데스크톱 응용프로그램입니다. 메뉴와 슬라이더, 체크박스 위젯을 활용해 이미지를 불러오고 회전·스케일 조정부터 주파수 필터, 만화/유화 효과까지 폭넓은 컴퓨터 비전 파이프라인을 실시간으로 확인할 수 있습니다.
 
